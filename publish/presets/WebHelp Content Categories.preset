@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/EmployeeCare3.toc</path>
+      <name>EmployeeCare3</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/EmployeeCare3.glo</path>
+      <name>EmployeeCare3</name>
+    </glossary>
+    <conditional>
+      <name>US_Content</name>
+      <path>../expressions/US_Content.expn</path>
+    </conditional>
+    <variable>
+      <name>US</name>
+      <path>../variablesets/US.var</path>
+    </variable>
+    <masterpage></masterpage>
+    <brs type="array">
+      <brsitem>
+        <name>HR_Policies_and_Procedures</name>
+        <path>../browsesequence/HR_Policies_and_Procedures.brs</path>
+      </brsitem>
+    </brs>
+    <mapFiles type="array">
+      <mapFilesitem>
+        <name>BSSCDefault</name>
+        <path>../mapfiles/BSSCDefault.ali</path>
+      </mapFilesitem>
+    </mapFiles>
+  </content>
+  <outputPath>C:/Users/nitika/Documents/My RoboHelp Projects/outputs/EmployeeCare3/WebHelp_Content_Categories</outputPath>
+  <starterPage>index.htm</starterPage>
+  <search>
+    <context type="boolean">false</context>
+    <contextLimit type="number">100</contextLimit>
+    <suggestion type="boolean">true</suggestion>
+    <fuzzy type="boolean">true</fuzzy>
+    <glossary type="boolean">true</glossary>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+    <helpBaseURL></helpBaseURL>
+  </sitemap>
+  <name>WebHelp Content Categories</name>
+  <type>webhelp</type>
+  <title>Employee Care</title>
+  <defaultTopic>
+    <name>employee_care/introduction_empcare.htm</name>
+    <path>../../contents/employee_care/introduction_empcare.htm</path>
+  </defaultTopic>
+  <favicon>
+    <name>JS-Whirl-Logo-32</name>
+    <path>../../contents/assets/images/JS-Whirl-Logo-32.png</path>
+  </favicon>
+  <lowercasenames type="number">0</lowercasenames>
+  <glosstermEffect type="number">0</glosstermEffect>
+  <createThumbNails type="boolean">false</createThumbNails>
+</preset>

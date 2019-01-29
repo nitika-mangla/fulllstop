@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/EmployeeCare3.toc</path>
+      <name>EmployeeCare3</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/EmployeeCare3.glo</path>
+      <name>EmployeeCare3</name>
+    </glossary>
+    <conditional>
+      <name>US_Content_PrintedDocs</name>
+      <path>../expressions/US_Content_PrintedDocs.expn</path>
+    </conditional>
+    <variable>
+      <name>US</name>
+      <path>../variablesets/US.var</path>
+    </variable>
+    <masterpage>
+      <name>&lt;Multiple&gt;</name>
+      <path>../../contents/assets/masterpages/&lt;Multiple&gt;.htt</path>
+    </masterpage>
+    <brs type="array"></brs>
+    <mapFiles type="array"></mapFiles>
+  </content>
+  <outputPath>C:/Users/nitika/Documents/My RoboHelp Projects/outputs/EmployeeCare3/Printed_Documentation_US_Century_Gothic</outputPath>
+  <starterPage>Employee_Care_US.pdf</starterPage>
+  <search>
+    <context type="boolean">false</context>
+    <contextLimit></contextLimit>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+    <helpBaseURL></helpBaseURL>
+  </sitemap>
+  <name>Printed Documentation US - Letter Century Gothic Cover 3</name>
+  <type>pdf</type>
+  <title>empcare</title>
+  <defaultTopic></defaultTopic>
+  <lowercasenames type="number">0</lowercasenames>
+  <pdf>
+    <multiHeaders type="boolean">false</multiHeaders>
+    <margin type="array">
+      <marginitem type="number">10</marginitem>
+      <marginitem type="number">10</marginitem>
+      <marginitem type="number">10</marginitem>
+      <marginitem type="number">10</marginitem>
+    </margin>
+  </pdf>
+</preset>

@@ -1,0 +1,18 @@
+{
+  "layout": "single_page",
+  "name": "Azure_Blue",
+  "variables": {
+    "css": {
+      "search_box_field_shadow_color": "#cccccc",
+      "search_box_mobile_color": "#000000",
+      "search_result_and_label": "#000000",
+      "sidebar_bgcolor": "#fcfcfc",
+      "glossary_search_bgcolor": "#FFFFFF",
+      "index_search_bgcolor": "#FFFFFF"
+    },
+    "html": {
+      "assets": ["mobile.css"],
+      "custom_buttons": []
+    }
+  }
+}

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/EmployeeCare3.toc</path>
+      <name>EmployeeCare3</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/EmployeeCare3.glo</path>
+      <name>EmployeeCare3</name>
+    </glossary>
+    <conditional>
+      <name>Author_Only_Content</name>
+      <path>../expressions/Author_Only_Content.expn</path>
+    </conditional>
+    <variable>
+      <name>US</name>
+      <path>../variablesets/US.var</path>
+    </variable>
+    <masterpage></masterpage>
+    <brs type="array">
+      <brsitem>
+        <name>Author_Info</name>
+        <path>../browsesequence/Author_Info.brs</path>
+      </brsitem>
+    </brs>
+    <mapFiles type="array"></mapFiles>
+  </content>
+  <outputPath>C:/Users/nitika/Documents/My RoboHelp Projects/outputs/EmployeeCare3/WebHelp_for_Authors</outputPath>
+  <starterPage>index.htm</starterPage>
+  <search>
+    <context type="boolean">false</context>
+    <contextLimit type="number">100</contextLimit>
+    <suggestion type="boolean">true</suggestion>
+    <fuzzy type="boolean">true</fuzzy>
+    <glossary type="boolean">true</glossary>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+    <helpBaseURL></helpBaseURL>
+  </sitemap>
+  <name>WebHelp for Authors</name>
+  <type>webhelp</type>
+  <title>Employee Care</title>
+  <defaultTopic>
+    <name>employee_care/introduction_empcare.htm</name>
+    <path>../../contents/employee_care/introduction_empcare.htm</path>
+  </defaultTopic>
+  <lowercasenames type="number">0</lowercasenames>
+  <glosstermEffect type="number">0</glosstermEffect>
+  <createThumbNails type="boolean">false</createThumbNails>
+</preset>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<map>
+  
+
+<title>Table of Contents</title>
+  
+
+<book navtitle="Human Resources Policies">
+    
+
+<page href="../contents/Employee_Care_eBook/Introduction_eBook.htm"></page>
+    
+
+<page href="../contents/Employee_Care_eBook/Attendance_e_Book.htm"></page>
+    
+
+<page href="../contents/Employee_Care_eBook/Introduction_eBook.htm"></page>
+    
+
+<page href="../contents/Employee_Care_eBook/Health_and_Safety_eBook.htm"></page>
+    
+
+<page href="../contents/Employee_Care_eBook/Attendance_e_Book.htm"></page>
+    
+
+<page href="../contents/Employee_Care/HR_Policies/New Employee Checklist/New_Employee_Checklist.htm"></page>
+    
+
+<page href="../contents/Employee_Care/HR_Policies/Sales_Staff_Video.htm"></page>
+    
+
+<page href="../contents/Employee_Care/HR_Policies/Retiring_Employees.htm"></page>
+    
+
+<page href="../contents/Employee_Care/HR_Policies/Health_and_Safety.htm"></page>
+    
+
+<page href="../contents/Employee_Care/HR_Policies/Harassment.htm"></page>
+    
+
+<page href="../contents/Employee_Care/HR_Policies/Grievances.htm"></page>
+    
+
+<page href="../contents/Employee_Care/HR_Policies/Flexible_Working.htm"></page>
+    
+
+<page href="../contents/Employee_Care/HR_Policies/Equal_Opportunities.htm"></page>
+    
+
+<page href="../contents/Employee_Care/HR_Policies/Disciplinary_Procedure.htm"></page>
+    
+
+<page href="../contents/Employee_Care/HR_Policies/Dependants_Leave.htm"></page>
+    
+
+<page href="../contents/Employee_Care/HR_Policies/Company_Sick_Pay.htm"></page>
+    
+
+<page href="../contents/Employee_Care/HR_Policies/Attendance.htm"></page>
+    
+
+<page href="../contents/Employee_Care/Benefits/Features/Word_and_FrameMaker_Docs.htm"></page>
+    
+
+<page href="../contents/Employee_Care/Benefits/Features/The_User_Interface.htm"></page>
+    
+
+<page href="../contents/Employee_Care/Benefits/Features/Snippets.htm"></page>
+    
+
+<page href="../contents/Employee_Care/Benefits/Features/Sharing_Topics_and_Other_Resources.htm"></page>
+    
+
+<page href="../contents/Employee_Care/Benefits/Features/SharePoint_Integration.htm"></page>
+    
+
+<page href="../contents/Employee_Care/Benefits/Features/Search_Technique_Enhancements.htm"></page>
+    
+
+<page href="../contents/Employee_Care/Benefits/Features/Scripts.htm"></page>
+    
+
+<page href="../contents/Employee_Care/Benefits/Features/New_Responsive_HTML5_Layouts.htm"></page>
+    
+
+<page href="../contents/Employee_Care/Benefits/Features/Master_Pages.htm"></page>
+    
+
+<page href="../contents/Employee_Care/Benefits/Features/Find_and_Replace.htm"></page>
+    
+
+<page href="../contents/Employee_Care/Benefits/Features/Explore_Feature_and_Workflow_Topics_.htm"></page>
+    
+
+<page href="../contents/Employee_Care/Benefits/Features/Embedded_Fonts_in_eBooks.htm"></page>
+    
+
+<page href="../contents/Employee_Care/Benefits/Features/Dynamic_Content_Filtering.htm"></page>
+    
+
+<page href="../contents/Employee_Care/Benefits/Features/Creating_Mobile_Apps.htm"></page>
+    
+
+<page href="../contents/Employee_Care/Benefits/Features/Content_Categories.htm"></page>
+    
+
+<page href="../contents/Employee_Care/Benefits/Features/Bits_and_Pieces.htm"></page>
+    
+
+<page href="../contents/Employee_Care/Benefits/Features/Adobe_Captivate_HTML5_Videos.htm"></page>
+    
+
+<page href="../contents/Employee_Care/Benefits/Features/Acrobat_PDF_based_Review.htm"></page>
+    
+
+<page href="../contents/Employee_Care/Benefits/Healthcare.htm"></page>
+    
+
+<page href="../contents/Employee_Care/Benefits/Cars.htm"></page>
+    
+
+<page href="../contents/Employee_Care/Introduction.htm"></page>
+    
+
+<page href="../contents/AUTHOR_INFO_READ_FIRST/Travel/Expenses.htm"></page>
+    
+
+<page href="../contents/AUTHOR_INFO_READ_FIRST/Travel/Bookings.htm"></page>
+    
+
+<page href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/XML_Output.htm"></page>
+    
+
+<page href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/WebHelp_Output.htm"></page>
+    
+
+<page href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/Responsive_HTML5_Outputzczxcerwrwr.htm"></page>
+    
+
+<page href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/Printed_Documentation_Output.htm"></page>
+    
+
+<page href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/Multiscreen_HTML5_Output.htm"></page>
+    
+
+<page href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/Mobile_App_Output.htm"></page>
+    
+
+<page href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/Microsoft_HTML_Output_CHM.htm"></page>
+    
+
+<page href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/eBook_Output.htm"></page>
+    
+
+<page href="../contents/AUTHOR_INFO_READ_FIRST/The_Employee_Care_Outputs.htm"></page>
+    
+
+<page href="../contents/AUTHOR_INFO_READ_FIRST/READ_FIRST.htm"></page>
+    
+
+<page href="../contents/AUTHOR_INFO_READ_FIRST/About_RoboHelp_2015.htm"></page>
+    
+
+<page href="../contents/AUTHOR_INFO_READ_FIRST/About_Rh_11.htm"></page>
+    
+
+<page href="../contents/Employee_Care_eBook/Health_and_Safety_eBook.htm"></page>
+    
+
+<page href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/Printed_Documentation_Output.htm"></page>
+    
+
+<page href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/Responsive_HTML5_Outputzczxcerwrwr.htm"></page>
+    
+
+<page href="../contents/AUTHOR_INFO_READ_FIRST/Outputs/WebHelp_Output.htm"></page>
+  </book>
+</map>
